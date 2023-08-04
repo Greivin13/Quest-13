@@ -6,7 +6,8 @@
 
   ## Deployed Application URL
   https://github.com/Greivin13/Quest-13
-
+  ## Video Demonstration
+  https://drive.google.com/file/d/1I3lZiUklqzb1Z4EoFouqwwt-uh1DcubC/view
   ## Table of Contents
   * [Features](#features)
   * [Languages & Dependencies](#languagesanddependencies)
@@ -17,4 +18,4 @@
   dotenv, express, mysql2, sequelize
   JS, SQL, Sequelize
   ## How to Use This Application:
- Start by npm installing all dependecies, after connect to the mysql database, finally run node index.js. After port is listening head over to isomnia and type your respective PORT
+ Start by npm installing all dependecies, after connect to the mysql database, npm run seed  and finally npm start. After port is listening head over to isomnia and type your respective PORT
